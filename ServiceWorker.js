@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Huawei Awards-0.1";
+const cacheName = "DefaultCompany-Huawei Awards-1.0";
 const contentToCache = [
     "Build/Build-chines.loader.js",
-    "Build/Build-chines.framework.js.br",
-    "Build/Build-chines.data.br",
-    "Build/Build-chines.wasm.br",
+    "Build/Build-chines.framework.js",
+    "Build/Build-chines.data",
+    "Build/Build-chines.wasm",
     "TemplateData/style.css"
 
 ];
